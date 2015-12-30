@@ -39,7 +39,7 @@ body {
 }
 body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #555555;
+  color: #000;
   font-size: 13px;
 }
 /* # Layout
@@ -292,7 +292,7 @@ span.red {
   z-index: 10030;
 }
 .navbar {
-  background: #4d7496;
+  background: #005DAE;
   min-height: 48px;
   filter: none;
   top: 0;

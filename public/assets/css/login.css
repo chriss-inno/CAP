@@ -22,7 +22,7 @@
   clear: both;
 }
 .login {
-  background-color: #f9f9f9;
+  background-color: #005DAE;
   padding-top: 60px;
   /* Helper */
 
@@ -36,6 +36,7 @@
 .login .logo {
   padding: 15px;
   font-size: 23px;
+   color: #FFF;
 }
 .login .box {
   background-color: #fff;
